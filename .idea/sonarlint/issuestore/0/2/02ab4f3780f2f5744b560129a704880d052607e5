@@ -1,0 +1,17 @@
+
+o	java:S115"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(»Ø«ü
+t	java:S115"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(×¹ùšøÿÿÿÿ
+t	java:S115#"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(Í¤Üùÿÿÿÿ
+t
+java:S1488b"^Immediately return this expression instead of assigning it to the temporary variable "nextId".(ê¤øØ
+u
+java:S1149{"_Replace the synchronized class "StringBuffer" by an unsynchronized one such as "StringBuilder".(ÓŠÖµ
+t	java:S115+"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(…ÍØ‰üÿÿÿÿ
+T	java:S106"9Replace this use of System.out or System.err by a logger.(ıÏ¼Áıÿÿÿÿ
+t	java:S115)"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(Ô×ùÂúÿÿÿÿ
+t	java:S115%"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(©äı¹øÿÿÿÿ
+o	java:S115"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(á•ÅÂ
+o	java:S115!"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(¬Ê÷Ó
+t	java:S115'"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(šößúÿÿÿÿ
+`	java:S112S"FDefine and throw a dedicated exception instead of using a generic one.(Úûßâúÿÿÿÿ
+t	java:S115-"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(ò”¢üÿÿÿÿ

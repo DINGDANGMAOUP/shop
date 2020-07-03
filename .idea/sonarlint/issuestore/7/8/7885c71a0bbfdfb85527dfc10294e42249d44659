@@ -1,0 +1,32 @@
+
+^	java:S125È"<This block of commented-out lines of code should be removed.(§”™úÿÿÿÿ8‡àé£®.
+^	java:S125í"<This block of commented-out lines of code should be removed.(Ã½¯üÿÿÿÿÿ8‡àé£®.
+J
+java:S1612À",Replace this lambda with a method reference.(Ì˜£ƒ8şüæ£®.
+V	java:S125^"<This block of commented-out lines of code should be removed.(éØ»Úûÿÿÿÿ
+X	java:S125/"<This block of commented-out lines of code should be removed.(ÌÕ·ø8àƒè£®.
+^	java:S125Û"<This block of commented-out lines of code should be removed.(´§˜ëüÿÿÿÿ8‡àé£®.
+X	java:S125t"<This block of commented-out lines of code should be removed.(¶Ëáâ8ÃÀè£®.
+M
+java:S5411é"*Use the primitive boolean expression here.(î•í–şÿÿÿÿ8şüæ£®.
+^	java:S125õ"<This block of commented-out lines of code should be removed.(éØ»Úûÿÿÿÿ8‡àé£®.
+]	java:S125y"<This block of commented-out lines of code should be removed.(Ã½¯üÿÿÿÿÿ8ÃÀè£®.
+Q	java:S125\"<This block of commented-out lines of code should be removed.(™à¸
+X	java:S125g"<This block of commented-out lines of code should be removed.(“ãèŞ8ÃÀè£®.
+W
+java:S1144‡"4Remove this unused private "saveSkuAndStock" method.(†ùø‹øÿÿÿÿ8‡àé£®.
+]	java:S125j"<This block of commented-out lines of code should be removed.(Ü¥‰¬úÿÿÿÿ8ÃÀè£®.
+]	java:S125o"<This block of commented-out lines of code should be removed.(«Íÿèüÿÿÿÿ8ÃÀè£®.
+Y	java:S125Ó"<This block of commented-out lines of code should be removed.(Ô¾ùŸ8‡àé£®.
+]	java:S125|"<This block of commented-out lines of code should be removed.(ñ¥ùšøÿÿÿÿ8ÃÀè£®.
+^	java:S125Ğ"<This block of commented-out lines of code should be removed.(œ“˜•øÿÿÿÿ8‡àé£®.
+Y	java:S125à"<This block of commented-out lines of code should be removed.(êË«œ8‡àé£®.
+^	java:S125Õ"<This block of commented-out lines of code should be removed.(Ë¼­Çÿÿÿÿÿ8‡àé£®.
+j
+java:S32523"OUse static access with "com.github.pagehelper.page.PageMethod" for "startPage".(ÓüõØûÿÿÿÿ
+^	java:S125ğ"<This block of commented-out lines of code should be removed.(ñ¥ùšøÿÿÿÿ8‡àé£®.
+J
+java:S1612À",Replace this lambda with a method reference.(Ì˜£ƒ8şüæ£®.
+^	java:S125Ø"<This block of commented-out lines of code should be removed.(éØ»Úûÿÿÿÿ8‡àé£®.
+N	java:S106Z"9Replace this use of System.out or System.err by a logger.(ç‹Ö
+^	java:S125ç"<This block of commented-out lines of code should be removed.(òü¨Ôûÿÿÿÿ8‡àé£®.

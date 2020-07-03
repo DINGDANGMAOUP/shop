@@ -1,0 +1,20 @@
+
+V	java:S125S"<This block of commented-out lines of code should be removed.(™ ·Šúÿÿÿÿ
+W
+java:S3457K"AFormat specifiers should be used instead of string concatenation.(Ø¶òû
+W
+java:S34577"AFormat specifiers should be used instead of string concatenation.(Ø¶òû
+\
+java:S3457#"AFormat specifiers should be used instead of string concatenation.(€ªÖàşÿÿÿÿ
+V	java:S125X"<This block of commented-out lines of code should be removed.(»•ûÿÿÿÿ
+V	java:S125["<This block of commented-out lines of code should be removed.(˜·ñÿÿÿÿÿ
+A
+java:S11688"+Return an empty collection instead of null.(¥¹ï
+U
+java:S1118":Add a private constructor to hide the implicit public one.(ôÖ®¬ùÿÿÿÿ
+W
+java:S3457-"AFormat specifiers should be used instead of string concatenation.(Ø¶òû
+j
+java:S1192-"TDefine a constant instead of duplicating this literal "jsonè§£æå‡ºé”™ï¼š" 4 times.(Ø¶òû
+W
+java:S3457A"AFormat specifiers should be used instead of string concatenation.(Ø¶òû

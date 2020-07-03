@@ -1,0 +1,10 @@
+
+7
+java:S1116Y"Remove this empty statement.(”²Ý«úÿÿÿÿ
+P	java:S125X"<This block of commented-out lines of code should be removed.(Ïô‰	
+V	java:S1251"<This block of commented-out lines of code should be removed.(ËùÐ‚ùÿÿÿÿ
+V	java:S125`"<This block of commented-out lines of code should be removed.(ÅüùŒüÿÿÿÿ
+j
+java:S3252"OUse static access with "com.github.pagehelper.page.PageMethod" for "startPage".(ÓüõØûÿÿÿÿ
+@
+java:S5411,"*Use the primitive boolean expression here.(÷Èãû

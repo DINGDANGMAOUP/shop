@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile default="true" name="Default" enabled="true" />
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="leyou-item" />
+        <module name="leyou-search" />
+        <module name="registry" />
+        <module name="leyou-common" />
+        <module name="leyou-item-service" />
+        <module name="leyou-gatewy" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="leyou-elasticsearch" target="1.8" />
+      <module name="leyou-item-interface" target="1.8" />
+      <module name="leyou-registry" target="1.5" />
+      <module name="leyu-zuul" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+  <component name="JavacSettings">
+    <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="leyou" options="-parameters" />
+      <module name="leyou-common" options="-parameters" />
+      <module name="leyou-elasticsearch" options="-parameters" />
+      <module name="leyou-gatewy" options="-parameters" />
+      <module name="leyou-item" options="-parameters" />
+      <module name="leyou-item-interface" options="-parameters" />
+      <module name="leyou-item-service" options="-parameters" />
+      <module name="leyou-search" options="-parameters" />
+      <module name="leyu-zuul" options="-parameters" />
+      <module name="registry" options="-parameters" />
+    </option>
+  </component>
+</project>

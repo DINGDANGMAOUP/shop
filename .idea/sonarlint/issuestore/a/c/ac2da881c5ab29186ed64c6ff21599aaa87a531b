@@ -1,0 +1,13 @@
+
+[
+java:S2184O"ECast one of the operands of this subtraction operation to a "double".(ï·ø‡
+9
+java:S2153P"Remove the boxing to "Double".(žÍ¦»úÿÿÿÿ
+7
+java:S21116"!Use "BigDecimal.valueOf" instead.(×èÿ­
+4
+java:S2153O"Remove the boxing to "Double".(ï·ø‡
+U
+java:S1118":Add a private constructor to hide the implicit public one.(¦Ù‡•ýÿÿÿÿ
+]
+java:S2184P"BCast one of the operands of this addition operation to a "double".(žÍ¦»úÿÿÿÿ

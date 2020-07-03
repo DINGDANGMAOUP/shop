@@ -1,0 +1,19 @@
+server:
+  port: 8081
+spring:
+  application:
+    name: item-service
+  datasource:
+      driver-class-name: com.mysql.cj.jdbc.Driver
+      password: Dzh19970102.
+      url: jdbc:mysql://192.168.143.203:3306/leyou?serverTimezone=GMT%2B8
+      username: debian-sys-maint
+eureka:
+  client:
+    service-url:
+      defaultZone: http://localhost:10011/eureka
+  instance:
+    lease-renewal-interval-in-seconds: 5
+    lease-expiration-duration-in-seconds:  15
+mybatis:
+  type-aliases-package: com.dzh.item.pojo

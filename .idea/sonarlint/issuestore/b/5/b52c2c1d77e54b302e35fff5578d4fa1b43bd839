@@ -1,0 +1,22 @@
+
+W
+java:S4973ö"9Use the "equals" method if value comparison was intended.(•îòÄ8ÙÌ‚®.
+G
+java:S5411{"*Use the primitive boolean expression here.(§Ãò°8çâ•È¯.
+I
+java:S1168¾"+Return an empty collection instead of null.(¥¹ï8ÙÌ‚®.
+[	java:S106À"9Replace this use of System.out or System.err by a logger.(ªÓ¼áşÿÿÿÿ8ÙÌ‚®.
+O
+java:S1612",Replace this lambda with a method reference.(ß”ğÍùÿÿÿÿ8ÙÌ‚®.
+U
+java:S2589¿"7Remove this expression which always evaluates to "true"(µŞ–ñ8ÙÌ‚®.
+W
+java:S4973ö"9Use the "equals" method if value comparison was intended.(•îòÄ8ÙÌ‚®.
+|
+java:S1488«"^Immediately return this expression instead of assigning it to the temporary variable "brands".(½Ïç8ÙÌ‚®.
+L
+java:S5411x"*Use the primitive boolean expression here.(ÀÍ«Áùÿÿÿÿ8çâ•È¯.
+€
+java:S1488º"bImmediately return this expression instead of assigning it to the temporary variable "categories".(È¼çĞ8ÙÌ‚®.
+I
+java:S1168¯"+Return an empty collection instead of null.(¥¹ï8ÙÌ‚®.

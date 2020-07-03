@@ -1,0 +1,33 @@
+server:
+  port: 10010
+spring:
+  application:
+    name: leyou-gateway
+#  main:
+#    allow-bean-definition-overriding: true
+#  cloud:
+#    consul:
+#      host: localhost
+#      port: 8500
+#      discovery:
+#        enabled: true
+#        health-check-path: /health
+#        health-check-interval: 1s
+#        deregister: true
+
+eureka:
+  client:
+    service-url:
+      defaultZone: http://localhost:10011/eureka
+    registry-fetch-interval-seconds: 5
+zuul:
+  prefix: /api
+#  host:
+#    connect-timeout-millis: 10000
+#    socket-timeout-millis: 60000
+  routes:
+    item-service: /item/**
+
+
+
+

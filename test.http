@@ -1,0 +1,9 @@
+
+
+###
+#GET http://192.168.244.202:9200/?pretty
+
+
+#GET http://121.37.130.94:9200/?pretty
+GET http://localhost:10011
+#GET http://121.37.130.94:9200/
